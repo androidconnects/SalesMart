@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">SalesMart</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="top">androidconnects</string>
+    <string name="footer">GYAN PRAKASH</string>
+    <string name="body"></string>
+    
+    
+   
+</resources>
